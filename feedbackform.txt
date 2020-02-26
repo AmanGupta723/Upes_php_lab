@@ -1,0 +1,22 @@
+Faculty name :Avita
+ Subject :php
+Date :4/5/2019
+student_id:50006172
+Student_name aman
+rating=5.75
+The comments given by all students
+ Amount of material covered in the course = no
+Topics were covered in logical sequence = no
+Assignment are sufficient and helpful = no
+Overall, the courses was helpful = no
+Faculty name :Avita
+ Subject :php
+Date :5/6/2019
+student_id:5006100
+Student_name=mana
+rating=3
+The comments given by all students
+ Amount of material covered in the course = n
+Topics were covered in logical sequence = k
+Assignment are sufficient and helpful = kl
+Overall, the courses was helpful = jh

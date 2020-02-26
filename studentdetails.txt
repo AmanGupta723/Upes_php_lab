@@ -1,0 +1,5 @@
+014:aman:19:bihar
+31:apoorv:20:Up
+04:Abhay:16:Rajasthan
+24:anmol:20:punjab
+101:priya:19:banglore
